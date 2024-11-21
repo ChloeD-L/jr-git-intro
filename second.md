@@ -1,1 +1,1 @@
-This is a different update to the second file.
+This is the updated second file.
